@@ -1,0 +1,46 @@
+#div01 {
+    width: 100px;
+    height: 150px;
+    background-color: #FF0000;
+    display: inline-block;
+}
+
+
+#div02 {
+    width: 100px;
+    height: 150px;
+    background-color: #FAFF00;
+    display: inline-block;
+}
+
+
+#div03 {
+    width: 100px;
+    height: 150px;
+    background-color: #05FF00;
+    display: inline-block;
+}
+
+
+#div04 {
+    width: 100px;
+    height: 150px;
+    background-color: #0500FF; 
+    display: inline-block;
+}
+
+
+#div05 {
+    width: 100px;
+    height: 150px;
+    background-color: #FA00FF;
+    display: inline-block;
+}
+
+
+#div06 {
+    width: 100px;
+    height: 150px;
+    background-color: #00FFF0;
+    display: inline-block;
+}
